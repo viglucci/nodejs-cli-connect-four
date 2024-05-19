@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-cli-connect-four",
+  "version": "1.0.0",
+  "description": "Basic connect four game that can be played in your terminal.",
+  "main": "program.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viglucci/nodejs-cli-connect-four"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node program.js"
+  },
+  "author": "Kevin Viglucci <kviglucci@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE.md"
+}
