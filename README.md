@@ -16,3 +16,23 @@ Controls:
 
 Player turn: x
 ```
+
+## Usage
+
+Clone repo:
+
+```bash
+git clone https://github.com/viglucci/nodejs-cli-connect-four.git
+```
+
+Enter directory:
+
+```bash 
+cd ejs-cli-connect-four
+```
+
+Run program:
+
+```bash
+node ./program.js
+```
