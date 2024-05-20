@@ -28,7 +28,7 @@ git clone https://github.com/viglucci/nodejs-cli-connect-four.git
 Enter directory:
 
 ```bash 
-cd ejs-cli-connect-four
+cd nodejs-cli-connect-four
 ```
 
 Run program:
