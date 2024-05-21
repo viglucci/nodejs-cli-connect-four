@@ -62,5 +62,5 @@ async function renderLoop(game, renderer) {
         }
     }
 
-    console.log('done...');
+    renderer.draw();
 }
